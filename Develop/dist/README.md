@@ -10,6 +10,8 @@
   [Contributions](#contributions)
 
   [Testing](#testing)
+  
+  
 
   [GitHub Repo](#github-repository)
 
@@ -23,13 +25,13 @@
   ## Usage
   The user answers basic questions about their project. That information is used to fill the readme file. It decreases the time it takes to write a readme file.
 
-  Video of README generator in use: [Youtube Link](https://youtu.be/2o6TqkOYGyc)
-
   ## Contributions
   Email me if you would like to contribute on the project. Contact info is at the bottom of this file.
 
   ## Testing
   Just answer the command line questions that the application provides.
+
+  
 
   ## GitHub Repository
   Link: https://github.com/luimr88/readme-page-generator
